@@ -2,9 +2,6 @@
 # 基本运算符号：+, -, *, /, ^
 # 高级运算符号： log, exp, sin, cos, tan, sqrt, etc.
 # 特殊符号：max(), min(), sum(), etc
-# 其他诸如向量、矩阵、数组等对象的运算在后面讲述。
-#
-# Yuehan Yang. 2014/7/18 yyh@cufe.edu.cn
 
 
 
